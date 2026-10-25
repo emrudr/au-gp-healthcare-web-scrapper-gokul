@@ -1,0 +1,303 @@
+[
+  {
+    "reference_label": "Robina, QLD 4226",
+    "suburb": "Robina",
+    "state": "QLD",
+    "postcode": "4226",
+    "url_slug": "robina-QLD-4226"
+  },
+  {
+    "reference_label": "Southport, QLD 4215",
+    "suburb": "Southport",
+    "state": "QLD",
+    "postcode": "4215",
+    "url_slug": "southport-QLD-4215"
+  },
+  {
+    "reference_label": "Brisbane City, QLD 4000",
+    "suburb": "Brisbane City",
+    "state": "QLD",
+    "postcode": "4000",
+    "url_slug": "brisbane-city-QLD-4000"
+  },
+  {
+    "reference_label": "Chermside, QLD 4032",
+    "suburb": "Chermside",
+    "state": "QLD",
+    "postcode": "4032",
+    "url_slug": "chermside-QLD-4032"
+  },
+  {
+    "reference_label": "Mount Gravatt, QLD 4122",
+    "suburb": "Mount Gravatt",
+    "state": "QLD",
+    "postcode": "4122",
+    "url_slug": "mount-gravatt-QLD-4122"
+  },
+  {
+    "reference_label": "Ipswich, QLD 4305",
+    "suburb": "Ipswich",
+    "state": "QLD",
+    "postcode": "4305",
+    "url_slug": "ipswich-QLD-4305"
+  },
+  {
+    "reference_label": "Maroochydore, QLD 4558",
+    "suburb": "Maroochydore",
+    "state": "QLD",
+    "postcode": "4558",
+    "url_slug": "maroochydore-QLD-4558"
+  },
+  {
+    "reference_label": "Toowoomba City, QLD 4350",
+    "suburb": "Toowoomba City",
+    "state": "QLD",
+    "postcode": "4350",
+    "url_slug": "toowoomba-city-QLD-4350"
+  },
+  {
+    "reference_label": "Townsville City, QLD 4810",
+    "suburb": "Townsville City",
+    "state": "QLD",
+    "postcode": "4810",
+    "url_slug": "townsville-QLD-4810"
+  },
+  {
+    "reference_label": "Cairns City, QLD 4870",
+    "suburb": "Cairns City",
+    "state": "QLD",
+    "postcode": "4870",
+    "url_slug": "cairns-QLD-4870"
+  },
+  {
+    "reference_label": "Sydney, NSW 2000",
+    "suburb": "Sydney",
+    "state": "NSW",
+    "postcode": "2000",
+    "url_slug": "sydney-NSW-2000"
+  },
+  {
+    "reference_label": "Parramatta, NSW 2150",
+    "suburb": "Parramatta",
+    "state": "NSW",
+    "postcode": "2150",
+    "url_slug": "parramatta-NSW-2150"
+  },
+  {
+    "reference_label": "Chatswood, NSW 2067",
+    "suburb": "Chatswood",
+    "state": "NSW",
+    "postcode": "2067",
+    "url_slug": "chatswood-NSW-2067"
+  },
+  {
+    "reference_label": "Liverpool, NSW 2170",
+    "suburb": "Liverpool",
+    "state": "NSW",
+    "postcode": "2170",
+    "url_slug": "liverpool-NSW-2170"
+  },
+  {
+    "reference_label": "Penrith, NSW 2750",
+    "suburb": "Penrith",
+    "state": "NSW",
+    "postcode": "2750",
+    "url_slug": "penrith-NSW-2750"
+  },
+  {
+    "reference_label": "Bondi Junction, NSW 2022",
+    "suburb": "Bondi Junction",
+    "state": "NSW",
+    "postcode": "2022",
+    "url_slug": "bondi-junction-NSW-2022"
+  },
+  {
+    "reference_label": "Hurstville, NSW 2220",
+    "suburb": "Hurstville",
+    "state": "NSW",
+    "postcode": "2220",
+    "url_slug": "hurstville-NSW-2220"
+  },
+  {
+    "reference_label": "Newcastle, NSW 2300",
+    "suburb": "Newcastle",
+    "state": "NSW",
+    "postcode": "2300",
+    "url_slug": "newcastle-NSW-2300"
+  },
+  {
+    "reference_label": "Wollongong, NSW 2500",
+    "suburb": "Wollongong",
+    "state": "NSW",
+    "postcode": "2500",
+    "url_slug": "wollongong-NSW-2500"
+  },
+  {
+    "reference_label": "Melbourne, VIC 3000",
+    "suburb": "Melbourne",
+    "state": "VIC",
+    "postcode": "3000",
+    "url_slug": "melbourne-VIC-3000"
+  },
+  {
+    "reference_label": "Box Hill, VIC 3128",
+    "suburb": "Box Hill",
+    "state": "VIC",
+    "postcode": "3128",
+    "url_slug": "box-hill-VIC-3128"
+  },
+  {
+    "reference_label": "Dandenong, VIC 3175",
+    "suburb": "Dandenong",
+    "state": "VIC",
+    "postcode": "3175",
+    "url_slug": "dandenong-VIC-3175"
+  },
+  {
+    "reference_label": "Footscray, VIC 3011",
+    "suburb": "Footscray",
+    "state": "VIC",
+    "postcode": "3011",
+    "url_slug": "footscray-VIC-3011"
+  },
+  {
+    "reference_label": "Epping, VIC 3076",
+    "suburb": "Epping",
+    "state": "VIC",
+    "postcode": "3076",
+    "url_slug": "epping-VIC-3076"
+  },
+  {
+    "reference_label": "Frankston, VIC 3199",
+    "suburb": "Frankston",
+    "state": "VIC",
+    "postcode": "3199",
+    "url_slug": "frankston-VIC-3199"
+  },
+  {
+    "reference_label": "Geelong, VIC 3220",
+    "suburb": "Geelong",
+    "state": "VIC",
+    "postcode": "3220",
+    "url_slug": "geelong-VIC-3220"
+  },
+  {
+    "reference_label": "Ballarat Central, VIC 3350",
+    "suburb": "Ballarat Central",
+    "state": "VIC",
+    "postcode": "3350",
+    "url_slug": "ballarat-central-VIC-3350"
+  },
+  {
+    "reference_label": "Bendigo, VIC 3550",
+    "suburb": "Bendigo",
+    "state": "VIC",
+    "postcode": "3550",
+    "url_slug": "bendigo-VIC-3550"
+  },
+  {
+    "reference_label": "Perth, WA 6000",
+    "suburb": "Perth",
+    "state": "WA",
+    "postcode": "6000",
+    "url_slug": "perth-WA-6000"
+  },
+  {
+    "reference_label": "Subiaco, WA 6008",
+    "suburb": "Subiaco",
+    "state": "WA",
+    "postcode": "6008",
+    "url_slug": "subiaco-WA-6008"
+  },
+  {
+    "reference_label": "Joondalup, WA 6027",
+    "suburb": "Joondalup",
+    "state": "WA",
+    "postcode": "6027",
+    "url_slug": "joondalup-WA-6027"
+  },
+  {
+    "reference_label": "Fremantle, WA 6160",
+    "suburb": "Fremantle",
+    "state": "WA",
+    "postcode": "6160",
+    "url_slug": "fremantle-WA-6160"
+  },
+  {
+    "reference_label": "Midland, WA 6056",
+    "suburb": "Midland",
+    "state": "WA",
+    "postcode": "6056",
+    "url_slug": "midland-WA-6056"
+  },
+  {
+    "reference_label": "Mandurah, WA 6210",
+    "suburb": "Mandurah",
+    "state": "WA",
+    "postcode": "6210",
+    "url_slug": "mandurah-WA-6210"
+  },
+  {
+    "reference_label": "Adelaide, SA 5000",
+    "suburb": "Adelaide",
+    "state": "SA",
+    "postcode": "5000",
+    "url_slug": "adelaide-SA-5000"
+  },
+  {
+    "reference_label": "Norwood, SA 5067",
+    "suburb": "Norwood",
+    "state": "SA",
+    "postcode": "5067",
+    "url_slug": "norwood-SA-5067"
+  },
+  {
+    "reference_label": "Elizabeth, SA 5112",
+    "suburb": "Elizabeth",
+    "state": "SA",
+    "postcode": "5112",
+    "url_slug": "elizabeth-SA-5112"
+  },
+  {
+    "reference_label": "Marion, SA 5043",
+    "suburb": "Marion",
+    "state": "SA",
+    "postcode": "5043",
+    "url_slug": "marion-SA-5043"
+  },
+  {
+    "reference_label": "Canberra, ACT 2601",
+    "suburb": "Canberra",
+    "state": "ACT",
+    "postcode": "2601",
+    "url_slug": "canberra-ACT-2601"
+  },
+  {
+    "reference_label": "Woden, ACT 2606",
+    "suburb": "Woden",
+    "state": "ACT",
+    "postcode": "2606",
+    "url_slug": "woden-ACT-2606"
+  },
+  {
+    "reference_label": "Hobart, TAS 7000",
+    "suburb": "Hobart",
+    "state": "TAS",
+    "postcode": "7000",
+    "url_slug": "hobart-TAS-7000"
+  },
+  {
+    "reference_label": "Launceston, TAS 7250",
+    "suburb": "Launceston",
+    "state": "TAS",
+    "postcode": "7250",
+    "url_slug": "launceston-TAS-7250"
+  },
+  {
+    "reference_label": "Darwin City, NT 0800",
+    "suburb": "Darwin City",
+    "state": "NT",
+    "postcode": "0800",
+    "url_slug": "darwin-NT-0800"
+  }
+]
